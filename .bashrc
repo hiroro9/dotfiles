@@ -192,8 +192,8 @@
 winpty cal
 
 alias ls='ls -F --color=auto --show-control-chars'
-alias ll='ls -l'
-alias la='ls -la'
+alias ll='ls -li'
+alias la='ls -lai'
 
 
 export PATH=$PATH:/d/program/miniconda/Library/bin/
